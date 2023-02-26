@@ -1,0 +1,665 @@
+PWD g:/My Drive/College/PhD/Projects/2022-25 - Projects - Debasis Sir/Nishkal PhD/Reports/2022 - Registration Seminar
+INPUT c:/Portable Softwares/texlive/2022/texmf.cnf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT c:/Portable Softwares/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT g:/My Drive/College/PhD/Projects/2022-25 - Projects - Debasis Sir/Nishkal PhD/Reports/2022 - Registration Seminar/19CS91R05 - Nishkal - Registration Seminar - Report.tex
+OUTPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.log
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT ./report_sections/1_Packages.tex
+INPUT ./report_sections/1_Packages.tex
+INPUT ./report_sections/1_Packages.tex
+INPUT report_sections/1_Packages.tex
+INPUT ./report_sections/1_Packages.tex
+INPUT ./report_sections/1_Packages.tex
+INPUT report_sections/1_Packages.tex
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/float/float.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.aux
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.aux
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.aux
+OUTPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.aux
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT ./report_sections/2_Title_page.tex
+INPUT ./report_sections/2_Title_page.tex
+INPUT ./report_sections/2_Title_page.tex
+INPUT report_sections/2_Title_page.tex
+INPUT ./report_sections/2_Title_page.tex
+INPUT ./report_sections/2_Title_page.tex
+INPUT report_sections/2_Title_page.tex
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT ./images//IITLOGO.png
+INPUT ./images//IITLOGO.png
+INPUT images//IITLOGO.png
+INPUT ./images//IITLOGO.png
+OUTPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.pdf
+INPUT ./images//IITLOGO.png
+INPUT c:/Portable Softwares/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.toc
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.toc
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.toc
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+OUTPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.toc
+INPUT ./report_sections/3_Introduction.tex
+INPUT ./report_sections/3_Introduction.tex
+INPUT ./report_sections/3_Introduction.tex
+INPUT report_sections/3_Introduction.tex
+INPUT ./report_sections/3_Introduction.tex
+INPUT ./report_sections/3_Introduction.tex
+INPUT report_sections/3_Introduction.tex
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./images/Examples of biometric characteristics.png
+INPUT ./images/Examples of biometric characteristics.png
+INPUT images/Examples of biometric characteristics.png
+INPUT ./images/Examples of biometric characteristics.png
+INPUT ./images/Examples of biometric characteristics.png
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT ./images/Block diagram of a generic biometric system.png
+INPUT ./images/Block diagram of a generic biometric system.png
+INPUT images/Block diagram of a generic biometric system.png
+INPUT ./images/Block diagram of a generic biometric system.png
+INPUT ./images/Block diagram of a generic biometric system.png
+INPUT ./images/Classification of database indexing.pdf
+INPUT ./images/Classification of database indexing.pdf
+INPUT images/Classification of database indexing.pdf
+INPUT ./images/Classification of database indexing.pdf
+INPUT ./images/Classification of database indexing.pdf
+INPUT ./report_sections/4_Literature_Survey.tex
+INPUT ./report_sections/4_Literature_Survey.tex
+INPUT ./report_sections/4_Literature_Survey.tex
+INPUT report_sections/4_Literature_Survey.tex
+INPUT ./report_sections/4_Literature_Survey.tex
+INPUT ./report_sections/4_Literature_Survey.tex
+INPUT report_sections/4_Literature_Survey.tex
+INPUT ./report_sections/5_Scope_of_work.tex
+INPUT ./report_sections/5_Scope_of_work.tex
+INPUT ./report_sections/5_Scope_of_work.tex
+INPUT report_sections/5_Scope_of_work.tex
+INPUT ./report_sections/5_Scope_of_work.tex
+INPUT ./report_sections/5_Scope_of_work.tex
+INPUT report_sections/5_Scope_of_work.tex
+INPUT ./images/steps_in_identification_with_indexing.drawio.pdf
+INPUT ./images/steps_in_identification_with_indexing.drawio.pdf
+INPUT images/steps_in_identification_with_indexing.drawio.pdf
+INPUT ./images/steps_in_identification_with_indexing.drawio.pdf
+INPUT ./images/steps_in_identification_with_indexing.drawio.pdf
+INPUT ./report_sections/6_Work_Done.tex
+INPUT ./report_sections/6_Work_Done.tex
+INPUT ./report_sections/6_Work_Done.tex
+INPUT report_sections/6_Work_Done.tex
+INPUT ./report_sections/6_Work_Done.tex
+INPUT ./report_sections/6_Work_Done.tex
+INPUT report_sections/6_Work_Done.tex
+INPUT ./images//blockdiagram.pdf
+INPUT ./images//blockdiagram.pdf
+INPUT images//blockdiagram.pdf
+INPUT ./images//blockdiagram.pdf
+INPUT ./images//blockdiagram.pdf
+INPUT ./images/pre-proc_1.pdf
+INPUT ./images/pre-proc_1.pdf
+INPUT images/pre-proc_1.pdf
+INPUT ./images/pre-proc_1.pdf
+INPUT ./images/pre-proc_1.pdf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT ./images/pre-proc_2_rotated.pdf
+INPUT ./images/pre-proc_2_rotated.pdf
+INPUT images/pre-proc_2_rotated.pdf
+INPUT ./images/pre-proc_2_rotated.pdf
+INPUT ./images/pre-proc_2_rotated.pdf
+INPUT ./images/pre-proc_3_enhanced.pdf
+INPUT ./images/pre-proc_3_enhanced.pdf
+INPUT images/pre-proc_3_enhanced.pdf
+INPUT ./images/pre-proc_3_enhanced.pdf
+INPUT ./images/pre-proc_3_enhanced.pdf
+INPUT ./images/glcm_2.pdf
+INPUT ./images/glcm_2.pdf
+INPUT images/glcm_2.pdf
+INPUT ./images/glcm_2.pdf
+INPUT ./images/glcm_2.pdf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT ./images/glcm_3_final.pdf
+INPUT ./images/glcm_3_final.pdf
+INPUT images/glcm_3_final.pdf
+INPUT ./images/glcm_3_final.pdf
+INPUT ./images/glcm_3_final.pdf
+INPUT ./images/glcm_1.pdf
+INPUT ./images/glcm_1.pdf
+INPUT images/glcm_1.pdf
+INPUT ./images/glcm_1.pdf
+INPUT ./images/glcm_1.pdf
+INPUT ./images/glcm1.pdf
+INPUT ./images/glcm1.pdf
+INPUT images/glcm1.pdf
+INPUT ./images/glcm1.pdf
+INPUT ./images/glcm1.pdf
+INPUT ./images/glcm2.pdf
+INPUT ./images/glcm2.pdf
+INPUT images/glcm2.pdf
+INPUT ./images/glcm2.pdf
+INPUT ./images/glcm2.pdf
+INPUT ./images/glcm3.pdf
+INPUT ./images/glcm3.pdf
+INPUT images/glcm3.pdf
+INPUT ./images/glcm3.pdf
+INPUT ./images/glcm3.pdf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT ./images/Diagramsdelunay1.pdf
+INPUT ./images/Diagramsdelunay1.pdf
+INPUT images/Diagramsdelunay1.pdf
+INPUT ./images/Diagramsdelunay1.pdf
+INPUT ./images/Diagramsdelunay1.pdf
+INPUT ./images/Diagramsdelunay2.pdf
+INPUT ./images/Diagramsdelunay2.pdf
+INPUT images/Diagramsdelunay2.pdf
+INPUT ./images/Diagramsdelunay2.pdf
+INPUT ./images/Diagramsdelunay2.pdf
+INPUT ./images/hcbd.pdf
+INPUT ./images/hcbd.pdf
+INPUT images/hcbd.pdf
+INPUT ./images/hcbd.pdf
+INPUT ./images/hcbd.pdf
+INPUT ./images/gcbd.pdf
+INPUT ./images/gcbd.pdf
+INPUT images/gcbd.pdf
+INPUT ./images/gcbd.pdf
+INPUT ./images/gcbd.pdf
+INPUT ./images/LTP1.pdf
+INPUT ./images/LTP1.pdf
+INPUT images/LTP1.pdf
+INPUT ./images/LTP1.pdf
+INPUT ./images/LTP1.pdf
+INPUT ./images/LTP2.pdf
+INPUT ./images/LTP2.pdf
+INPUT images/LTP2.pdf
+INPUT ./images/LTP2.pdf
+INPUT ./images/LTP2.pdf
+INPUT ./images/LTP3.pdf
+INPUT ./images/LTP3.pdf
+INPUT images/LTP3.pdf
+INPUT ./images/LTP3.pdf
+INPUT ./images/LTP3.pdf
+INPUT ./images/LTP4.pdf
+INPUT ./images/LTP4.pdf
+INPUT images/LTP4.pdf
+INPUT ./images/LTP4.pdf
+INPUT ./images/LTP4.pdf
+INPUT ./images/MTP1.pdf
+INPUT ./images/MTP1.pdf
+INPUT images/MTP1.pdf
+INPUT ./images/MTP1.pdf
+INPUT ./images/MTP1.pdf
+INPUT ./images/MTP2.pdf
+INPUT ./images/MTP2.pdf
+INPUT images/MTP2.pdf
+INPUT ./images/MTP2.pdf
+INPUT ./images/MTP2.pdf
+INPUT ./images/MTP3.pdf
+INPUT ./images/MTP3.pdf
+INPUT images/MTP3.pdf
+INPUT ./images/MTP3.pdf
+INPUT ./images/MTP3.pdf
+INPUT ./images/MTP4.pdf
+INPUT ./images/MTP4.pdf
+INPUT images/MTP4.pdf
+INPUT ./images/MTP4.pdf
+INPUT ./images/MTP4.pdf
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT ./images//disdelu1.pdf
+INPUT ./images//disdelu1.pdf
+INPUT images//disdelu1.pdf
+INPUT ./images//disdelu1.pdf
+INPUT ./images//disdelu1.pdf
+INPUT ./images//dismd.pdf
+INPUT ./images//dismd.pdf
+INPUT images//dismd.pdf
+INPUT ./images//dismd.pdf
+INPUT ./images//dismd.pdf
+INPUT ./images//distext2.pdf
+INPUT ./images//distext2.pdf
+INPUT images//distext2.pdf
+INPUT ./images//distext2.pdf
+INPUT ./images//distext2.pdf
+INPUT ./images//segement84.pdf
+INPUT ./images//segement84.pdf
+INPUT images//segement84.pdf
+INPUT ./images//segement84.pdf
+INPUT ./images//segement84.pdf
+INPUT ./images//segement124.pdf
+INPUT ./images//segement124.pdf
+INPUT images//segement124.pdf
+INPUT ./images//segement124.pdf
+INPUT ./images//segement124.pdf
+INPUT ./report_sections/7_work_in_progress.tex
+INPUT ./report_sections/7_work_in_progress.tex
+INPUT ./report_sections/7_work_in_progress.tex
+INPUT report_sections/7_work_in_progress.tex
+INPUT ./report_sections/7_work_in_progress.tex
+INPUT ./report_sections/7_work_in_progress.tex
+INPUT report_sections/7_work_in_progress.tex
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.bbl
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.bbl
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.bbl
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.bbl
+INPUT 19CS91R05 - Nishkal - Registration Seminar - Report/19CS91R05 - Nishkal - Registration Seminar - Report.aux
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
+INPUT c:/Portable Softwares/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb

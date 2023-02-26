@@ -1,0 +1,144 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{Introduction}{3}{Introduction}{0}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{0}{2}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{0}{3}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{0}{4}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{0}{5}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {1}{0}{6}{8/9}{}{0}}
+\headcommand {\beamer@framepages {8}{9}}
+\headcommand {\slideentry {1}{0}{7}{10/10}{}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {1}{0}{8}{11/11}{}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {1}{0}{9}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {1}{0}{10}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@sectionpages {3}{13}}
+\headcommand {\beamer@subsectionpages {3}{13}}
+\headcommand {\sectionentry {2}{Literature Review}{14}{Literature Review}{0}}
+\headcommand {\slideentry {2}{0}{1}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{15}{Literature Survey}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{1}{15}{Fingerprint-based Indexing Survey}}
+\headcommand {\slideentry {2}{1}{1}{15/15}{Literature Survey}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{1}{2}{16/16}{Literature Survey}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{2}{17}{Iris-based Indexing Survey}}
+\headcommand {\slideentry {2}{1}{3}{17/17}{Literature Survey}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{3}{18}{Multi-modal Biometric Indexing Survey}}
+\headcommand {\slideentry {2}{1}{4}{18/18}{Literature Survey}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@sectionpages {14}{18}}
+\headcommand {\beamer@subsectionpages {15}{18}}
+\headcommand {\sectionentry {3}{Scope and Objectives}{19}{Scope and Objectives}{0}}
+\headcommand {\slideentry {3}{0}{1}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {3}{0}{2}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {3}{0}{3}{21/22}{}{0}}
+\headcommand {\beamer@framepages {21}{22}}
+\headcommand {\slideentry {3}{0}{4}{23/27}{}{0}}
+\headcommand {\beamer@framepages {23}{27}}
+\headcommand {\beamer@sectionpages {19}{27}}
+\headcommand {\beamer@subsectionpages {19}{27}}
+\headcommand {\sectionentry {4}{Work Done}{28}{Work Done}{0}}
+\headcommand {\slideentry {4}{0}{1}{28/28}{}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\beamer@subsectionpages {28}{28}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{29}{Proposed Approach}}
+\headcommand {\slideentry {4}{1}{1}{29/29}{Proposed Approach}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@subsectionpages {29}{29}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{30}{Pre-Processing}}
+\headcommand {\slideentry {4}{2}{1}{30/30}{Pre-Processing}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@subsectionpages {30}{30}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{31}{Consistent Region Selection}}
+\headcommand {\slideentry {4}{3}{1}{31/31}{Consistent Region Selection}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@subsectionpages {31}{31}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{32}{Hybrid Feature Vector Extraction}}
+\headcommand {\beamer@subsubsectionentry {0}{4}{4}{1}{32}{Overview}}
+\headcommand {\slideentry {4}{4}{1}{32/32}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsubsectionentry {0}{4}{4}{2}{33}{Indirect Feature Extraction}}
+\headcommand {\slideentry {4}{4}{2}{33/33}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {4}{4}{3}{34/34}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsubsectionentry {0}{4}{4}{3}{35}{Texture-based Feature Extraction}}
+\headcommand {\slideentry {4}{4}{4}{35/35}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {4}{4}{5}{36/36}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {4}{4}{6}{37/37}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {4}{4}{7}{38/38}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {4}{4}{8}{39/39}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {4}{4}{9}{40/40}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {4}{4}{10}{41/41}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {4}{4}{11}{42/42}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@subsubsectionentry {0}{4}{4}{4}{43}{Hybrid Feature Vector}}
+\headcommand {\slideentry {4}{4}{12}{43/43}{Hybrid Feature Vector Extraction}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\beamer@subsectionpages {32}{43}}
+\headcommand {\beamer@subsectionentry {0}{4}{5}{44}{Prominent Feature Selection}}
+\headcommand {\slideentry {4}{5}{1}{44/44}{Prominent Feature Selection}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {4}{5}{2}{45/45}{Prominent Feature Selection}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {4}{5}{3}{46/46}{Prominent Feature Selection}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\beamer@subsectionpages {44}{46}}
+\headcommand {\beamer@subsectionentry {0}{4}{6}{47}{Discriminant Feature Vector Generation}}
+\headcommand {\slideentry {4}{6}{1}{47/47}{Discriminant Feature Vector Generation}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {4}{6}{2}{48/48}{Discriminant Feature Vector Generation}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {4}{6}{3}{49/49}{Discriminant Feature Vector Generation}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\beamer@subsectionpages {47}{49}}
+\headcommand {\beamer@subsectionentry {0}{4}{7}{50}{Stable Key Generation}}
+\headcommand {\slideentry {4}{7}{1}{50/50}{Stable Key Generation}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@subsectionpages {50}{50}}
+\headcommand {\beamer@subsectionentry {0}{4}{8}{51}{Results and Analysis}}
+\headcommand {\slideentry {4}{8}{1}{51/54}{Results and Analysis}{0}}
+\headcommand {\beamer@framepages {51}{54}}
+\headcommand {\beamer@sectionpages {28}{54}}
+\headcommand {\beamer@subsectionpages {51}{54}}
+\headcommand {\sectionentry {5}{Future Plan of Work}{55}{Future Plan of Work}{0}}
+\headcommand {\slideentry {5}{0}{1}{55/55}{}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\beamer@subsectionpages {55}{55}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{56}{Future Plan of Work}}
+\headcommand {\slideentry {5}{1}{1}{56/61}{Future Plan of Work}{0}}
+\headcommand {\beamer@framepages {56}{61}}
+\headcommand {\beamer@sectionpages {55}{61}}
+\headcommand {\beamer@subsectionpages {56}{61}}
+\headcommand {\sectionentry {6}{References}{62}{References}{0}}
+\headcommand {\beamer@partpages {1}{69}}
+\headcommand {\beamer@subsectionpages {56}{69}}
+\headcommand {\beamer@sectionpages {55}{69}}
+\headcommand {\beamer@documentpages {69}}
+\headcommand {\gdef \inserttotalframenumber {48}}

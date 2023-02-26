@@ -1,0 +1,188 @@
+\begin{thebibliography}{10}
+
+\bibitem{Unar2014}
+J.~A. Unar, Woo~Chaw Seng, and Almas Abbasi.
+\newblock A review of biometric technology along with trends and prospects.
+\newblock {\em Pattern Recognition}, 47:2673--2688, 8 2014.
+
+\bibitem{Jain2004}
+Anil~K. Jain, Arun Ross, and Salil Prabhakar.
+\newblock An introduction to biometric recognition.
+\newblock {\em IEEE Transactions on Circuits and Systems for Video Technology},
+  14:4--20, 1 2004.
+
+\bibitem{Cappelli2011}
+Raffaele Cappelli, Matteo Ferrara, and Davide Maltoni.
+\newblock Fingerprint indexing based on minutia cylinder-code.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  33:1051--1057, 2011.
+
+\bibitem{park2005}
+Cheong~Hee Park and Haesun Park.
+\newblock Fingerprint classification using fast fourier transform and nonlinear
+  discriminant analysis.
+\newblock {\em Pattern Recognition}, 38(4):495--503, 2005.
+
+\bibitem{vandana2008}
+Vandana~Dixit K., Deepti Singh, Parul Raj, M.~Swathi, and P.~Gupta.
+\newblock kd-tree based fingerprint identification system.
+\newblock {\em 2nd International Conference on Anti-counterfeiting, Security
+  and Identification, ASID 2008}, pages 5--10, 2008.
+
+\bibitem{Jiang2006}
+Xudong Jiang, Manhua Liu, and Alex~C. Kot.
+\newblock Fingerprint retrieval for identification.
+\newblock {\em IEEE Transactions on Information Forensics and Security},
+  1:532--542, 12 2006.
+
+\bibitem{liu2017feature}
+Feng Liu, Yuanhao Zhao, and Linlin Shen.
+\newblock Feature guided fingerprint pore matching.
+\newblock In {\em Chinese Conference on Biometric Recognition}, pages 334--343.
+  Springer, 2017.
+
+\bibitem{cappelli2011index}
+Raffaele Cappelli.
+\newblock Fast and accurate fingerprint indexing based on ridge orientation and
+  frequency.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B
+  (Cybernetics)}, 41(6):1511--1521, 2011.
+
+\bibitem{Cappelli2012}
+Raffaele Cappelli and Matteo Ferrara.
+\newblock A fingerprint retrieval system based on level-1 and level-2 features.
+\newblock {\em Expert Systems with Applications}, 39:10465--10478, 9 2012.
+
+\bibitem{Jayaraman2014}
+Umarani Jayaraman, Aman~Kishore Gupta, and Phalguni Gupta.
+\newblock An efficient minutiae based geometric hashing for fingerprint
+  database.
+\newblock {\em Neurocomputing}, 137:115--126, 8 2014.
+
+\bibitem{Khalaf2018iris}
+Emad~Taha Khalaf, Muamer~N. Mohammad, and Kohbalan Moorthy.
+\newblock Robust partitioning and indexing for iris biometric database based on
+  local features.
+\newblock {\em IET Biometrics}, 7:589--597, 11 2018.
+
+\bibitem{Rathgeb2015iris}
+C.~Rathgeb, H.~Baier, C.~Busch, and F.~Breitinger.
+\newblock Towards bloom filter-based indexing of iris biometric data.
+\newblock {\em Proceedings of 2015 International Conference on Biometrics, ICB
+  2015}, pages 422--429, 6 2015.
+
+\bibitem{Mehrotra2013iris}
+Hunny Mehrotra and Banshidhar Majhi.
+\newblock An efficient indexing scheme for iris biometric using k-d-b trees.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 7996
+  LNAI:475--484, 2013.
+
+\bibitem{Gadde2010iris}
+Ravindra~B. Gadde, Donald Adjeroh, and Arun Ross.
+\newblock Indexing iris images using the burrows-wheeler transform.
+\newblock {\em 2010 IEEE International Workshop on Information Forensics and
+  Security, WIFS 2010}, 2010.
+
+\bibitem{Gyaourova2012multi}
+Aglika Gyaourova and Arun Ross.
+\newblock Index codes for multibiometric pattern retrieval.
+\newblock {\em IEEE Transactions on Information Forensics and Security},
+  7:518--529, 4 2012.
+
+\bibitem{Prabhu2015multi}
+G.~Prabhu and S.~Poornima.
+\newblock Minimize search time through gender classification from multimodal
+  biometrics.
+\newblock {\em Procedia Computer Science}, 50:289--294, 1 2015.
+
+\bibitem{Bahrampour2016multi}
+Soheil Bahrampour, Nasser~M. Nasrabadi, Asok Ray, and William~Kenneth Jenkins.
+\newblock Multimodal task-driven dictionary learning for image classification.
+\newblock {\em IEEE Transactions on Image Processing}, 25:24--38, 1 2016.
+
+\bibitem{Goswami2016multi}
+Gaurav Goswami, Paritosh Mittal, Angshul Majumdar, Mayank Vatsa, and Richa
+  Singh.
+\newblock Group sparse representation based classification for multi-feature
+  multimodal biometrics.
+\newblock {\em Information Fusion}, 32:3--12, 11 2016.
+
+\bibitem{lee1980two}
+Der-Tsai Lee and Bruce~J Schachter.
+\newblock Two algorithms for constructing a delaunay triangulation.
+\newblock {\em International Journal of Computer \& Information Sciences},
+  9(3):219--242, 1980.
+
+\bibitem{Ebrahim2009hcbd}
+Yasser Ebrahim, Maher Ahmed, Wegdan Abdelsalam, and Siu~Cheung Chau.
+\newblock Shape representation and description using the hilbert curve.
+\newblock {\em Pattern Recognition Letters}, 30:348--358, 3 2009.
+
+\bibitem{Zhao2008gcbd}
+Shan Zhao and Hai~Tao Wang.
+\newblock Image retrieval based on bit-plane distribution entropy.
+\newblock {\em Proceedings - International Conference on Computer Science and
+  Software Engineering, CSSE 2008}, 4:532--535, 2008.
+
+\bibitem{tan2010enhanced}
+Xiaoyang Tan and Bill Triggs.
+\newblock Enhanced local texture feature sets for face recognition under
+  difficult lighting conditions.
+\newblock {\em IEEE transactions on image processing}, 19(6):1635--1650, 2010.
+
+\bibitem{bashar2014robust}
+Farhan Bashar, Asif Khan, Faisal Ahmed, and Md~Hasanul Kabir.
+\newblock Robust facial expression recognition based on median ternary pattern
+  (mtp).
+\newblock In {\em 2013 International Conference on Electrical Information and
+  Communication technology (EICT)}, pages 1--5. IEEE, 2014.
+
+\bibitem{suarez2020tutorial}
+Juan~Luis Su{\'a}rez, Salvador Garc{\'\i}a, and Francisco Herrera.
+\newblock A tutorial on distance metric learning: Mathematical foundations,
+  algorithms, experimental analysis, prospects and challenges.
+\newblock {\em Neurocomputing}, 2020.
+
+\bibitem{davis2007information}
+Jason~V Davis, Brian Kulis, Prateek Jain, Suvrit Sra, and Inderjit~S Dhillon.
+\newblock Information-theoretic metric learning.
+\newblock In {\em Proceedings of the 24th international conference on Machine
+  learning}, pages 209--216, 2007.
+
+\bibitem{shlens2014notes}
+Jonathon Shlens.
+\newblock Notes on kullback-leibler divergence and likelihood.
+\newblock {\em arXiv preprint arXiv:1404.2000}, 2014.
+
+\bibitem{maio2002fvc2002}
+Dario Maio, Davide Maltoni, Raffaele Cappelli, James~L Wayman, and Anil~K Jain.
+\newblock Fvc2002: Second fingerprint verification competition.
+\newblock In {\em Object recognition supported by user interaction for service
+  robots}, volume~3, pages 811--814. IEEE, 2002.
+
+\bibitem{maio2004fvc2004}
+Dario Maio, Davide Maltoni, Raffaele Cappelli, James~L Wayman, and et~al.
+\newblock Fvc2004: Third fingerprint verification competition.
+\newblock In {\em International conference on biometric authentication}, pages
+  1--7. Springer, 2004.
+
+\bibitem{polyu2016database}
+HRF PolyU.
+\newblock Database ii.
+\newblock {\em Accessed online on}, 6:27, 2016.
+
+\bibitem{pareschi2012statistical}
+Fabio Pareschi, Riccardo Rovatti, and Gianluca Setti.
+\newblock On statistical tests for randomness included in the nist sp800-22
+  test suite and based on the binomial distribution.
+\newblock {\em IEEE Transactions on Information Forensics and Security},
+  7(2):491--505, 2012.
+
+\bibitem{marsaglia1998diehard}
+Georges Marsaglia.
+\newblock Diehard test suite.
+\newblock {\em Online: http://www. stat. fsu. edu/pub/diehard}, 8(01):2014,
+  1998.
+
+\end{thebibliography}

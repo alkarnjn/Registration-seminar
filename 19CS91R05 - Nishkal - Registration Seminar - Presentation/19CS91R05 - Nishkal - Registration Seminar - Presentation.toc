@@ -1,0 +1,23 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Literature Review}{14}{0}{2}
+\beamer@subsectionintoc {2}{1}{Literature Survey}{15}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{1}{Fingerprint-based Indexing Survey}{15}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{2}{Iris-based Indexing Survey}{17}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{3}{Multi-modal Biometric Indexing Survey}{18}{0}{2}
+\beamer@sectionintoc {3}{Scope and Objectives}{19}{0}{3}
+\beamer@sectionintoc {4}{Work Done}{28}{0}{4}
+\beamer@subsectionintoc {4}{1}{Proposed Approach}{29}{0}{4}
+\beamer@subsectionintoc {4}{2}{Pre-Processing}{30}{0}{4}
+\beamer@subsectionintoc {4}{3}{Consistent Region Selection}{31}{0}{4}
+\beamer@subsectionintoc {4}{4}{Hybrid Feature Vector Extraction}{32}{0}{4}
+\beamer@subsubsectionintoc {4}{4}{1}{Overview}{32}{0}{4}
+\beamer@subsubsectionintoc {4}{4}{2}{Indirect Feature Extraction}{33}{0}{4}
+\beamer@subsubsectionintoc {4}{4}{3}{Texture-based Feature Extraction}{35}{0}{4}
+\beamer@subsubsectionintoc {4}{4}{4}{Hybrid Feature Vector}{43}{0}{4}
+\beamer@subsectionintoc {4}{5}{Prominent Feature Selection}{44}{0}{4}
+\beamer@subsectionintoc {4}{6}{Discriminant Feature Vector Generation}{47}{0}{4}
+\beamer@subsectionintoc {4}{7}{Stable Key Generation}{50}{0}{4}
+\beamer@subsectionintoc {4}{8}{Results and Analysis}{51}{0}{4}
+\beamer@sectionintoc {5}{Future Plan of Work}{55}{0}{5}
+\beamer@subsectionintoc {5}{1}{Future Plan of Work}{56}{0}{5}

@@ -1,0 +1,81 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DOCUMENT CLASS
+% \documentclass[singlespacing,10pt,a4paper,oneside]{article} % tutan
+\documentclass[times, 10pt, a4paper,oneside]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% USEFUL PACKAGES
+
+\input{report_sections/1_Packages}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}    
+	
+% \renewcommand{\dobib}{} % Un-define the command
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TITLE PAGE
+\input{report_sections/2_Title_page}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%		
+% TABLE OF CONTENTS
+\setcounter{tocdepth}{3}
+\thispagestyle{empty}
+\tableofcontents
+\newpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Page number started from 3rd page
+\pagenumbering{arabic}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INTRODUCTION
+\input{report_sections/3_Introduction}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LITERATURE SURVEY
+\input{report_sections/4_Literature_Survey}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SCOPE AND OBJECTIVE
+\input{report_sections/5_Scope_of_work}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% WORK DONE
+\input{report_sections/6_Work_Done}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% WORK IN PROGRESS
+\input{report_sections/7_work_in_progress}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PUBLICATIONS
+% \section*{Publication}
+% \begin{enumerate}
+%     \item  \textbf{T. Nama}, D. Samanta, S. Sarcar, ``\textit{Quarter Circle Speller: EEG Motor Imagery Signal-Based Text Entry System for Motor Impaired People}'' (Submitted to ACM TOCHI 2022, Manuscript ID: TOCHI-2022-0008)
+% \end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% REFERENCE
+% \input{references}
+% \bibliographystyle{abbrv}
+\bibliographystyle{unsrt}
+\bibliography{ref}
+% \printbibliography
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+

@@ -1,0 +1,44 @@
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{amsfonts, amssymb, amsmath}
+\usepackage{multirow, array}
+\usepackage{algorithm2e}
+\usepackage{listings} 
+\usepackage{keyval}
+\usepackage[english]{babel}
+\usepackage[document]{ragged2e}
+\usepackage[square,numbers]{natbib}
+% \usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
+\usepackage{csquotes}
+\usepackage{multicol}
+\usepackage{transparent}
+\usepackage{tikz}
+\usepackage{pgf}
+% \usepackage{rotating} % used for rotating heading of column
+\usepackage{subfigure}
+%\usepackage{natbib}
+%\usepackage{bibentry}
+
+\newcommand{\topline}{%
+	\tikz[remember picture,overlay] {%
+		\draw[line width=0.05cm, navy_theme] ([xshift=0.3cm, yshift=-1.50cm]current page.north west)
+		-- ([xshift=-0.3cm, yshift=-1.50cm,xshift=\paperwidth]current page.north west);}}
+
+
+
+\graphicspath{{images/}}
+\setbeamerfont{caption}{size=\small}
+
+% \newcommand{\rot}[1]{\textbf{\begin{sideways}#1\end{sideways}}}
+
+% \usepackage{enumitem}
+
+% \renewenvironment{itemize}{
+% \begin{itemize}
+%   \setlength{\itemsep}{#1}
+% %   \setlength{\parskip}{}
+%   \setlength{\parsep}{#1}
+% }{\end{itemize}}

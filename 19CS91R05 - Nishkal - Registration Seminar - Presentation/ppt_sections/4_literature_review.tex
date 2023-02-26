@@ -1,0 +1,104 @@
+\subsection{Literature Survey}
+\subsubsection{Fingerprint-based Indexing Survey}
+\begin{frame}[t]{\subsecname}
+	\topline
+    \begin{itemize}
+		\setbeamercovered{transparent}
+    	\item \textcolor{navy_theme}{\textbf{\subsubsecname}}
+    	\vspace{-1em}
+	\end{itemize}
+    \tiny
+    % Change horizontal spacing
+    \setlength{\tabcolsep}{3pt}
+    % Change vertical spacing
+    \renewcommand{\arraystretch}{1.5}
+    \begin{table}[]
+    \caption{Summary of the recent approaches for fingerprint indexing}
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Author(s)}}                            & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Indexing\\  Approach\end{tabular}}} & \multicolumn{1}{c|}{\textbf{Feature}}                                                                                                                                               & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Test\\  Database\end{tabular}}} & \multicolumn{1}{c|}{\textbf{Efficiency}}                                                                                                                                   & \multicolumn{1}{c|}{\textbf{Performance}}                                   \\ \hline
+Cappelli \cite{Cappelli2011}                                                   & \begin{tabular}[c]{@{}l@{}}Continuous\\  classification\end{tabular}                       & \begin{tabular}[c]{@{}l@{}}Local  orientations,\\  corresponding con-\\ sistencies, local frequencies, \\ average frequency,average\\  vertical orientation difference\end{tabular} & \begin{tabular}[c]{@{}l@{}}NIST DB4\\  FVC 2000\\  FVC 2004\end{tabular}               & \begin{tabular}[c]{@{}l@{}}Search complexity is \\ ($O(N + N_T \log N_T )$)\end{tabular}                                                                                         & \begin{tabular}[c]{@{}l@{}}Hit Rate = 97.5\%\\ Pen Rate = 20\%\end{tabular} \\ \hline
+\begin{tabular}[c]{@{}l@{}}Park  et  al.\\  \cite{park2005}\end{tabular}   & Classification                                                                             & \begin{tabular}[c]{@{}l@{}}Discrete Fourier transform (DFT)\\ based feature\end{tabular}                                                                                           & NIST DB4                                                                               & -                                                                                                                                                                          & \begin{tabular}[c]{@{}l@{}}Hit Rate = 90.7\%\\ Pen Rate = 20\%\end{tabular} \\ \hline
+\begin{tabular}[c]{@{}l@{}}Vandana  et\\  al. \cite{vandana2008}\end{tabular} & Kd-Tree                                                                                    & \begin{tabular}[c]{@{}l@{}}Delaunay Triangulation based\\ minutiae triplet feature\end{tabular}                                                                                  & \begin{tabular}[c]{@{}l@{}}IITK fin-\\  gerprint  db\end{tabular}                      & -                                                                                                                                                                          & Pen Rate = 15\%                                                             \\ \hline
+\begin{tabular}[c]{@{}l@{}}Jiang  et  al.\\  \cite{Jiang2006}\end{tabular}  & \begin{tabular}[c]{@{}l@{}}K-means\\  clustering\end{tabular}                              & \begin{tabular}[c]{@{}l@{}}Orientation field and\\  dominant ridge dis- tance\end{tabular}                                                                                          & NIST db-4                                                                              & Time  complexity  of O(n2 )                                                                                                                                                & \begin{tabular}[c]{@{}l@{}}Hit Rate = 96\%\\ Pen Rate = 15\%\end{tabular}   \\ \hline
+\begin{tabular}[c]{@{}l@{}}Liu and Yap\\  \cite{liu2017feature}\end{tabular}     & \begin{tabular}[c]{@{}l@{}}K-means\\  clustering\end{tabular}                              & \begin{tabular}[c]{@{}l@{}}Features  based  on\\  polar  complex  moments (PCMs)\end{tabular}                                                                                     & \begin{tabular}[c]{@{}l@{}}NIST \\ FVC\end{tabular}                                    & \begin{tabular}[c]{@{}l@{}}The  average  number \\ of comparisons is $K_f +(N_f /K_f )$ \\ where, $N_f$ = Number of fingerprints \\ and $K_f$ is number of clusters,\end{tabular} & \begin{tabular}[c]{@{}l@{}}Hit Rate = 96.5\%\\ Pen Rate = 30\%\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
+\end{frame}
+
+\begin{frame}[t]{\subsecname}
+	\topline
+    \begin{itemize}
+		\setbeamercovered{transparent}
+    	\item \textcolor{navy_theme}{\textbf{\subsubsecname (cont.)}}
+    	\vspace{-0.5em}
+	\end{itemize}
+    \tiny
+    % Change horizontal spacing
+    \setlength{\tabcolsep}{3pt}
+    % Change vertical spacing
+    \renewcommand{\arraystretch}{1.5}
+    \begin{table}[]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Author(s)}}                             & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Indexing\\  Approach\end{tabular}}} & \multicolumn{1}{c|}{\textbf{Feature}}                                                                                                                                & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Test\\  Database\end{tabular}}}                             & \multicolumn{1}{c|}{\textbf{Efficiency}}                                                                                                                                               & \multicolumn{1}{c|}{\textbf{Performance}}                                   \\ \hline
+Li et al. \cite{liu2017feature}                                                 & \begin{tabular}[c]{@{}l@{}}Minutiae-\\  Vicinity- based\\  K-means indexing\end{tabular}   & \begin{tabular}[c]{@{}l@{}}4-D minutiae vicinity\\  feature, 3-D minutiae \\ triplet feature, aver- \\ age ridge density and \\ average ridge curvature\end{tabular} & \begin{tabular}[c]{@{}l@{}}FVC 2002 DB2   \\ FVC 2004 DB4\end{tabular}                                             & \begin{tabular}[c]{@{}l@{}}Time  complexity  of \\ O(n2 )\end{tabular}                                                                                                                 & \begin{tabular}[c]{@{}l@{}}Hit Rate = 95\%\\ Pen Rate = 9.75\%\end{tabular} \\ \hline
+\begin{tabular}[c]{@{}l@{}}Cappelli  et\\  al. \cite{cappelli2011index}\end{tabular} & \begin{tabular}[c]{@{}l@{}}Locality-\\  Sensitive Hashing \\ (LSH)\end{tabular}            & Minutia Cylinder Code                                                                                                                                                & \begin{tabular}[c]{@{}l@{}}NIST-DB4 and DB14,\\  DB2 of FVC2000,\\  DB3 of FVC2000,\\  DB1 of FVC2002\end{tabular} & \begin{tabular}[c]{@{}l@{}}Search time complexity is \\ O(|V|* l* b\_s), \\ where |V| = \\ len(feature vector),\\ l = count(hash function),\\ and b\_s = entries / bucket\end{tabular} & \begin{tabular}[c]{@{}l@{}}Hit Rate = 96\%\\ Pen Rate = 15\%\end{tabular}   \\ \hline
+\begin{tabular}[c]{@{}l@{}}Cappelli  et\\  al. \cite{Cappelli2012}\end{tabular} & \begin{tabular}[c]{@{}l@{}}Similarity\\  based matching\end{tabular}                       & \begin{tabular}[c]{@{}l@{}}Level-1  (local  ori-\\  entation and fre- \\ quencies) and \\ level-2 (minutiae) \\ feature\end{tabular}                                 & \begin{tabular}[c]{@{}l@{}}NNIST-DB4 \& DB14,\\  DB2 of FVC2000,\\  DB3 of FVC2000,\\  DB1 of FVC2002\end{tabular} & -                                                                                                                                                                                      & \begin{tabular}[c]{@{}l@{}}Hit Rate = 98\%\\ Pen Rate = 10\%\end{tabular}   \\ \hline
+\begin{tabular}[c]{@{}l@{}}Jayaraman\\  et al. \cite{Jayaraman2014}\end{tabular} & \begin{tabular}[c]{@{}l@{}}Geometric\\  hashing\end{tabular}                               & \begin{tabular}[c]{@{}l@{}}Minutia  Binary  Pat-\\  tern\end{tabular}                                                                                                & FVC 2004                                                                                                           & -                                                                                                                                                                                      & \begin{tabular}[c]{@{}l@{}}Hit Rate = 96\%\\ Pen Rate = 2.26\%\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
+\end{frame}
+
+
+\subsubsection{Iris-based Indexing Survey}
+
+\begin{frame}[t]{\subsecname}
+	\topline
+    \begin{itemize}
+		\setbeamercovered{transparent}
+    	\item \textcolor{navy_theme}{\textbf{\subsubsecname}}
+    % 	\vspace{-0.5em}
+	\end{itemize}
+    \tiny
+    % Change horizontal spacing
+    \setlength{\tabcolsep}{3pt}
+    % Change vertical spacing
+    \renewcommand{\arraystretch}{1.5}
+    \begin{table}[]
+    \begin{tabular}{|l|l|l|l|l|l|}
+    \hline
+    \multicolumn{1}{|c|}{\textbf{Author(s)}}                              & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Indexing\\  Approach\end{tabular}}} & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Feature  Di-\\  mension\end{tabular}}} & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Insertion/Update Effi-\\  ciency\end{tabular}}}                                              & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Data  Specific  Re-\\  quirement\end{tabular}}} & \multicolumn{1}{c|}{\textbf{Performance}}                                     \\ \hline
+    \begin{tabular}[c]{@{}l@{}}Khalaf  et. al.\\  \cite{Khalaf2018iris}\end{tabular}  & \textit{\begin{tabular}[c]{@{}l@{}}K  -  means\\  clustering\end{tabular}}                 & 81                                                                                            & \begin{tabular}[c]{@{}l@{}}May need to restructure\\  the cluster with the inser- \\ tion/updating of data\end{tabular}                             & \begin{tabular}[c]{@{}l@{}}No  specific  require-\\  ment\end{tabular}                                 & \begin{tabular}[c]{@{}l@{}}Hit Rate = 95\%\\ Pen Rate = 9.75\%\end{tabular}   \\ \hline
+    \begin{tabular}[c]{@{}l@{}}Rathgeb  et. al.\\  \cite{Rathgeb2015iris}\end{tabular} & \begin{tabular}[c]{@{}l@{}}Bloom filters\\  and  binary \\ search trees\end{tabular}       & \textless{}2048                                                                               & \begin{tabular}[c]{@{}l@{}}On data deletion the en-\\  tire tree has to be replace \\ by a tree generated from \\ all remaining leaves\end{tabular} & \begin{tabular}[c]{@{}l@{}}Requires binary Rep-\\  resentation  of  fea- \\ tures\end{tabular}         & \begin{tabular}[c]{@{}l@{}}Hit Rate = 93.5\%\\ Pen Rate = 6.2\%\end{tabular}  \\ \hline
+    \begin{tabular}[c]{@{}l@{}}Mehrotra et.  al.\\  \cite{Mehrotra2013iris}\end{tabular} & \begin{tabular}[c]{@{}l@{}}Geometric\\  Hashing\end{tabular}                               & 128                                                                                           & \begin{tabular}[c]{@{}l@{}}No need to change the un-\\  derlying structure. How- \\ ever multiple pairwise in- \\ sertion require\end{tabular}      & \begin{tabular}[c]{@{}l@{}}No  specific  require-\\  ment\end{tabular}                                 & \begin{tabular}[c]{@{}l@{}}Hit Rate = 95.5\%\\ Pen Rate = 7.2\%\end{tabular}  \\ \hline
+    \begin{tabular}[c]{@{}l@{}}Gadde  et. al.\\  \cite{Gadde2010iris}\end{tabular}   & \begin{tabular}[c]{@{}l@{}}Occurrence\\  of Binary \\ pattern\end{tabular}                 & Variable                                                                                      & \begin{tabular}[c]{@{}l@{}}No need to change the un-\\  derlying structure\end{tabular}                                                             & \begin{tabular}[c]{@{}l@{}}Requires binary Rep-\\  resentation  of  fea- \\ tures\end{tabular}         & \begin{tabular}[c]{@{}l@{}}Hit Rate = 99.8\%\\ Pen Rate = 12.3\%\end{tabular} \\ \hline
+    \end{tabular}
+    \end{table}
+\end{frame}
+
+\subsubsection{Multi-modal Biometric Indexing Survey}
+
+\begin{frame}[t]{\subsecname}
+	\topline
+    \begin{itemize}
+		\setbeamercovered{transparent}
+    	\item \textcolor{navy_theme}{\textbf{\subsubsecname}}
+    % 	\vspace{-0.5em}
+	\end{itemize}
+    \tiny
+    % Change horizontal spacing
+    \setlength{\tabcolsep}{3pt}
+    % Change vertical spacing
+    \renewcommand{\arraystretch}{1.5}
+    \begin{table}[]
+    \begin{tabular}{|l|l|l|l|l|}
+    \hline
+    \multicolumn{1}{|c|}{\textbf{Author(s)}}                              & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Considered\\  Modality\end{tabular}}}               & \multicolumn{1}{c|}{\textbf{\begin{tabular}[c]{@{}c@{}}Indexing\\  Approach\end{tabular}}}                                   & \multicolumn{1}{c|}{\textbf{Database}}                                                                                                         & \multicolumn{1}{c|}{\textbf{Performance}}                                                      \\ \hline
+    \begin{tabular}[c]{@{}l@{}}Gyaourova et al.\\ \cite{Gyaourova2012multi}\end{tabular} & \begin{tabular}[c]{@{}l@{}}Fingerprint\\  and Face\end{tabular}                                            & \begin{tabular}[c]{@{}l@{}}Similarity between a \\ biometric image \\ and a  fixed  set \\ of  reference images\end{tabular} & \begin{tabular}[c]{@{}l@{}}Chimeric  multimodal\\  dataset using the FERET \\ face  database  and the \\ WVU fingerprint database\end{tabular} & \begin{tabular}[c]{@{}l@{}}Hit Rate - 98\%\\ Pen Rate - 7\%\end{tabular}                       \\ \hline
+    Prabhu et al. \cite{Prabhu2015multi}                                                            & \begin{tabular}[c]{@{}l@{}}Fingerprints,\\  Palm prints,\\  Hand Geometry\end{tabular}                     & Classification                                                                                                               & -                                                                                                                                              & \begin{tabular}[c]{@{}l@{}}Identification Accuracy\\ - 87\%\end{tabular}                       \\ \hline
+    Soheil et al. \cite{Bahrampour2016multi}                                               & \begin{tabular}[c]{@{}l@{}}Fingerprint,\\  iris, palm- print,  \\ hand geometry, \\ and voice\end{tabular} & Classification                                                                                                               & WVU multimodal dataset                                                                                                                         & \begin{tabular}[c]{@{}l@{}}Classification  Accu-\\  racy - 98.6\%\end{tabular}                 \\ \hline
+    Goswami et al. \cite{Goswami2016multi}                                                             & \begin{tabular}[c]{@{}l@{}}Face,  finger\\  and iris\end{tabular}                                          & Classification                                                                                                               & WVU multimodal dataset                                                                                                                         & \begin{tabular}[c]{@{}l@{}}Identification  Accu-\\  racy - Between\\ 95\% to 99\%\end{tabular} \\ \hline
+    \end{tabular}
+    \end{table}
+\end{frame}

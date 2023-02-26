@@ -1,0 +1,347 @@
+% \documentclass../main.tex{subfiles}
+
+% \begin{document}
+% \Blindtext
+
+
+\section{Literature Survey}
+\label{sec2} 
+
+% divide work into Themes
+% existing lit Within those domains
+% how is our work differnt
+% Missing work based on themes
+
+
+In order to find if an entry exists, 
+any biometric identification system needs to search through a huge volume of data entries for possible matches. 
+It uses a unique identifier called a feature, to create a template that is used for the match. 
+The overall performance of the biometric identification system depends on several factors, 
+such as the efficiency of the data capturing, processing, storage, and retrieval steps. 
+However, sequential matching of the input with all the enrolled entries is not possible for any real-time application. 
+Thus, we need a system in place that can help us filter and reduce the search space.
+
+\subsection{Fingerprint-based biometric data indexing}
+The simplest/naive way to index fingerprint biometric data is to store biometric data independent of each other and 
+then perform a linear search on the biometric data as they do not possess a natural sorting order \cite{cappelli2011index}. 
+Matching an input fingerprint in a database of $N$ enrollments requires $N$ separate matchings, 
+which is viable only for small databases. However, for large databases, some notable approaches include continuous classification, clustering, hashing and
+indexing \cite{lumini1997continuous,schaler2013queval,aggarwal2014data,gu2013improved,Galar2015}.
+
+
+Germain et al. \cite{Germain1997} extracted minutia points in the fingerprints to create all possible combinations of triangles. 
+The features used for index key generation were: 
+triangle length, 
+count of ridges inside the triangle, and 
+individual angles of the triangles. 
+Bhanu et al. \cite{Bhanu2003} too proposed a method using minutia triplets. 
+The features used were its 
+maximum side, handedness, individual angles, direction, and type for each triangle.
+However, both approaches were too expensive computationally as $O(n^3)$ triplets were produced.
+
+Classification in biometric indexing is a supervised learning approach to group the fingerprint images
+into different classes based on training done on a set of labeled fingerprints.
+A commonly used classification model was proposed by Henry et al. \cite{henry1922classification}, which
+is utilized by Park et al. \cite{park2005} in their approach for classifying images using FFT-based features.
+
+There are a large number of identifying features in any fingerprint image, 
+thus the indexing techniques must support multi-dimensional data. 
+A data structure that supports multi-dimensional data, which is popularly used, is kd-tree \cite{bently1975}.
+Vandana et al. \cite{vandana2008} used kd-tree for storing nine-dimensional features extracted from fingerprints. 
+ Their approach showed better results in comparison to the linear storage of the data, 
+ by reducing the overall search time. 
+ Their drawback was that the efficiency significantly decreased with the increase in the dimensions of data \cite{Otair2013}. 
+ Another tree structure popularly used for indexing was R-tree
+and some variations of R-tree used by Kriege et al. \cite{Kriegel1990}. 
+Due to unbalance in the tree structure, their worst-case scenario for searching was close to linear searching.
+To improve on this, various clustering methods were
+proposed with the promise of making the storage system more efficient, amongst which k-means
+clustering gained the most popularity \cite{Jiang2006}, \cite{liu2012}, \cite{Li2014}.
+Jiang et al. \cite{Jiang2006} put forth a filtering algorithm for fingerprint identification. 
+Their approach used "dominant ridge distance" and "orientation fields" as the retrieval features.
+The extracted features were clustered to help the retrieval process 
+and removed to need to exhaustively compare an input fingerprint with the entire database.
+Liu and Yap \cite{liu2012} employed a "complex polar moments (PCMs)" for fingerprint ridge flow orientation and structure extraction.
+This was done for singular regions as well. 
+Using the orientation fields, a feature vector in the form of "rotational moment invariants" was used
+to get a structural description of the complete fingerprint.
+Finally, an indexing scheme based on clustering was implemented, for efficient retrieval of likely candidates, 
+in the fingerprint database.
+MV-Indexing approach proposed in \cite{Li2014} considers features obtained from the minutia
+points, such as direction, location, and information from ridge endings. 
+An indexing method was based on score-level fusion which combined the features extracted with the "minutia
+cylinder code (MCC)". Finally, k-means clustering was employed to index the data.
+
+In the clustering-based approaches, the accuracy and speed of the system depend highly 
+on the number of clusters. 
+To minimize such dependency and to improve
+retrieval accuracy, Ferreira et al. \cite{Ferreira2015} proposed a fuzzy c-means clustering method. 
+However, because of the high time complexity involved, the approach is not much explored.
+
+To overcome the aforementioned limitations of the methods, 
+LSH-based indexing methods were proposed \cite{Cappelli2011, Cappelli2012}. 
+These methods bypass the curse of dimensionality while 
+eliminating the need to decide the count of the storage locations.
+Despite these advantages, 
+with the increase in the total size of the database,
+the data retrieval time of the LSH-based indexing increases significantly.
+
+A modified geometric-based hashing technique was proposed by Jayaraman et al. \cite{Jayaraman2014}.
+The strength of this approach was that the same set of features was only stored once in the database and was never repeated.
+In order to improve the speed of data access, the approach stored only features from the core point of each fingerprint.
+The limitation was that such a system has a very high dependence on the core point and its identification.
+
+
+\subsection{Iris-based biometric data indexing}
+The indexing method proposed by Mukherjee et al. \cite{Mukherjee2008iris} 
+used k-means clustering. 
+A similar clustering approach was given by Puhan et al. \cite{Puhan2008iris}. 
+They proposed a method to index the iris images on the basis of the iris color. 
+Their proposed method used the chrominance component to partition the data into various groups,
+which in turn was used as a key for extracting the possible sets of images. 
+To use texture-based features of iris images, a texture-based representation method called "Hierarchical Visual Codebook
+(HVC)" was given by Sun et al. \cite{Sun2014iris}.
+For the classification of iris images, their approach integrated the
+concept of "Vocabulary Tree (VT)" and "Locality-constrained Linear Coding (LLC)".
+
+Classification and clustering-based approaches require prior information of
+the classes or clusters for accurate data partition.
+If that information is not known then the clusters/classes may not divide the dataset efficiently which may perhaps lead to the worst-case scenario of linear search.
+To overcome this issue, 
+Mehrotra et al. \cite{Mehrotra2010iris}
+used "Scale Invariant Feature Transform (SIFT)"
+features to index the data while also applying a geometric hashing-based scheme. 
+The work was further extended in \cite{Mehrotra2013iris} which indexed the
+data using kd-trees.
+Jayraman et al. \cite{Jayaraman2012iris} proposed to index SURF features using kd-tree as indexing method.
+Similarly,  Barbu et al. \cite{Barbu2015iris} used kd-tree to index content-based features.
+
+Rathgeb et al. \cite{Rathgeb2010iris} proposed a unique hash-based approach.
+The search space was reduced to $3\%$ with a hit rate of $90\%$ by using 4-bit biometric keys.
+This key was generated from iris images.
+Requiring high storage was the drawback of the approach. 
+Dey et al. \cite{Dey2012gabor} proposed "Gabor Energy", to make the identification process more efficient.
+For each iris template, a 12-dimensional index key was generated, which had a hit rate of $98.2\%$ 
+and the search space was limited to $12\%$. 
+Hugo et al. \cite{hugo2013iris} proposed an iris indexing scheme that works with unconstrained situations.
+They used "UBIRISv2 database" \cite{hugo2010iris} for comparative evaluation.
+
+A few other noteworthy works in iris-based biometric data indexing include the work by Gadde et al.
+\cite{Gadde2010iris}. They proposed an approach based on "Burrows-Wheeler
+transformation"\cite{Burrows1994ablock}, to achieve $99.8\%$ hit rate with penetration rate of $12.3\%$, 
+tested on a database of 249 subjects.
+Rathgeb et al. \cite{Rathgeb2015iris} used bloom filters to index iris images with a $93.5\%$ hit rate and penetration rate of $6.2\%$.
+The drawback of the approach was the use of all samples at every level of the tree and 
+any deletion operation required a full tree replacement (with $O(Nlog(N))$ complexity). 
+Drozdowski et al. \cite{Drozdowski2018iris} extended the work of Rathgeb et al. \cite{Rathgeb2015iris}
+by using a binary search tree in conjugation with bloom filters. 
+Damer et al. \cite{Damer2017iris} have used multi-instance indexing for iris data, with a hit rate of $99.98\%$ at a penetration rate of $0.1\%$. 
+Khalaf et al. \cite{Khalaf2018iris,khalaf2018efficient} proposed
+a "Scalable K-means++ algorithm" for the classification and partitioning of iris
+data. They also applied a parallel approach to divide the features groups to form an index key based on two b-trees
+for retrieval and searching.
+
+
+\subsection{Multi-modal biometric data indexing}
+It has been observed that some of the limitations of uni-modal biometric systems
+such as intra-class variations, low identification rate, and limited security \cite{Sarier2018multi} can
+be addressed by deploying multi-modal biometric systems. Such systems are based
+on the principle of combining information from two or more biometric modalities to ensure higher accuracy by eliminating any chance of spoofing.
+
+Various commercial, civilian and forensic applications use multi-modal biometric systems to establish identity \cite{Haghighat2016multi}. 
+The deployment of multi-modal biometric systems on national scale results in a growing database
+size \cite{Gyaourova2012multi}. 
+These databases are accessed extensively, and thereby require efficient ways of
+searching and retrieving relevant identities. 
+Considering the large volume of data,
+the approach to limit the search to a small region is required. In literature, this is
+accomplished by using classification or indexing approaches.
+However, classification approaches may
+divide the database into uneven class sizes which further causes search limitations
+during query matching. For instance, Prabhu et al. \cite{Prabhu2015multi} classify the sample as male or
+female to enhance the search efficiency for both identification and verification process.
+
+Soheil et al. \cite{Bahrampour2016multi} proposed to classify images by multi-modal task-driven dictionary
+learning. The authors have shown the application of the proposed work in different
+applications: "multi-modal face recognition, multi-view face recognition, multi-view
+action recognition, and multi-modal biometric recognition". 
+Goswami et al. \cite{Goswami2016multi}
+proposed an approach to classify fused features of multi-modal biometrics. In this
+work, they removed the requirement for a separate feature-level fusion mechanism
+and integrated representation using multi-feature for classification. However,
+their approach can not reduce the search to a minimal set of elements pertaining to the
+limited classes it has.
+
+For fast data retrieval and searching various hashing approaches are used.
+In order to address the need for a fast similarity search, a compact indexing structure is proposed by Wang et al.
+\cite{Wang2012multi}. One major advantage of using a hash-based index is that the lookup on a hash table takes constant time \cite{Wang2016multi}. 
+Its use in biometric indexing is only logical. For efficient and effective
+large-scale image retrieval on a large scale, many hashing algorithms have been introduced \cite{Kaushik2013multi}. 
+The use of hashing maps the data points of high dimension into 
+a low-dimension binary code which makes searching for nearest neighbors in a hamming space very efficient.\cite{Wang2016multi}
+The drawback of hashing methods is that the same hash is not generated for new instances of the same biometric.
+
+% \subsection{Biometric Key generation methods}
+% In recent times, biometrics have been considered to derive solutions for
+% cryptographic primitives. Conventional biometric traits, such as fingerprint,
+% face, iris, etc., of an individual, can be utilized to generate a unique
+% key~\cite{hamidi2019approach}. Using biometrics for key generation eliminates
+% many security holes. The direct irreversible process of generating biometric-based
+% key does not reveal any information about the biometric trait if the key is
+% compromised. In addition, a unique key can be generated for each user in an easy
+% and computationally fast manner compared to existing approaches. The significant
+% underlying strength of such keys enables their usage in various cryptographic
+% applications. \par
+% The features extracted from a biometric trait undergo some defined process to
+% yield a key. For example, in the case of fingerprints, minutiae points
+% are considered for key generation. These points are represented using
+% information like $(x, y)$ coordinates and angle of orientation
+% ($\theta$)~\cite{liu2017feature}.  Generating a stable key from an individual's trait features remains challenging. A small
+% change in a captured instance will generate a different feature set and hence a
+% different key.  Fa key needs to be generated from real-time data rather than
+% from stored biometric data. \par
+
+%  Delaunay-based triangulation for non-invertible cancellable
+% 	template generation has gained a lot of attention in the research
+% 	community ~\cite{sandhya2016generating}. A user-specific key is used to make
+% 	the template revocable in these schemes.  Furthermore, Bio-Crypto system for
+% 	fingerprints based on the Delaunay triangulation net (DTN) ~\cite{li2015new}
+% 	already exist in the literature. However, 
+% In the proposed method, an acquired image is first processed for image
+% enhancement as well as vertical alignment \cite{thai2016filter, Faguletal,
+% 	ding2017combining}. Next, the region of interest (ROI) is extracted based on
+% Gray Level Co-occurrence Matrix (GLCM) and statistical
+% features~\cite{garg2020novel}. Feature vectors based on DTN formed on the
+% extracted minutiae points~\cite{liu2017feature} are considered in this approach.
+% This is in contrast to only minutiae points being considered in the traditional
+% methods. To further enhance the reliability in key generation,
+% texture-based~\cite{tan2010enhanced,bashar2014robust} feature vectors are also
+% considered. Along with the above, normalized minutia and texture-based feature
+% vectors are fused to obtain a hybrid feature vector. Next, a prominent feature
+% set is obtained using real-GA (Genetic
+% Algorithm)~\cite{chiesa2020gars,alirezazadeh2015genetic}.  In addition, metric
+% learning is adopted to increase the similarity between intra-class instances
+% while also reducing the similarity between inter-class
+% instances~\cite{suarez2020tutorial}. Finally, from this optimum feature vector,
+% a stable key is generated. \par
+
+% There are a few existing key generation mechanisms from
+% biometrics in the literature \cite{balakumar2012survey}. Bodo et al. \cite{bodo1994method} proposed
+% the concept of cryptographic keys using biometrics in 1994, but such a technique
+% required highly stable instances, which was impractical, keeping in mind the
+% variations in biometric data. Furthermore, it did not satisfy the revocability
+% parameter making the key useless if compromised. In 1996, Tomko et al.
+% \cite{tomko1996fingerprint} proposed the concept of a key generation mechanism
+% by utilizing fingerprint features. Key generation through features extracted
+% from a user's voice was introduced by Monrose et al.
+% \cite{monrose2000cryptographic}. Voice was considered for this purpose because
+% it is optimal for communication and has distinguishable features. In the first
+% stage, the feature descriptors were derived from raw biometric features ensuring
+% high intra-user variation and high inter-user variation. In the second stage,
+% this dissimilarity was further increased to generate the key.
+
+% \par
+
+% Rathgeb et al. \cite{rathgeb2010privacy} introduced a key generation mechanism using iris
+% features, ensuring revocability parameter through feature encoding. However, the
+% positional information utilized in this technique might leak iris data. In 2008,
+% \cite{sheng2008template} presented a template-free biometric key using fuzzy
+% genetic clustering and tested it on handwritten data. Results reported after
+% comparison with the existing techniques were promising in this case.
+
+% \par
+
+
+% Sheng et al. \cite{sheng2015biometric} proposed a semi-supervised scheme that was
+% optimized to model both intra-class and inter-class variations producing
+% consistent biometric-based keys. The performance of the method was evaluated on
+% handwritten signatures. The keys obtained had high entropy and were
+% distinguishable from each another. In the method proposed by Partheeba et al.
+% \cite{partheeba2016fingerprint}, minutiae features were extracted using SIFT
+% features. However, the key generation scheme proposed required high-resolution
+% images. This requirement makes the method inefficient in real-time
+% applications.
+
+% \par
+
+
+% In 2017, Lavinia et al. \cite{dinca2017user} highlighted the
+% vulnerabilities of uni-modal and multi-modal systems for private key generation.
+% They proposed a fingerprint and iris-based approach that used a fuzzy extractor
+% for key extraction. Experimental results were presented for this scheme, but the
+% approach lacked clarity since there was no detailed algorithm or mathematical
+% formulation of the key generation mechanism. Moosavi et al.
+% \cite{moosavi2017low} proposed an EEG-based key generation scheme by utilizing
+% various EEG features like PR, RR, PP, QT, and ST intervals. The aim of this
+% method revolved around producing secure cryptographic keys. The efficiency of
+% the scheme was tested using NIST randomness tests. However, EEG signals
+% are not the popular choice for biometrics. Also, the acquisition
+% and processing of EEG data of a subject is a time-consuming task.
+
+% \par
+
+% Wu et al. \cite{wu2018generating} proposed a finger vein-based key generation
+% scheme (FVHS) in 2017 for cloud computing authentication by combining
+% machine learning, biometrics, and cryptography. The idea was to mine a feature
+% vector from biometric space and obtain stabilized fixed number sequence in a
+% higher-dimensional space. Though the authentication accuracy was promising, the
+% key regeneration might not be satisfactory. Anees et al.
+% \cite{anees2018discriminative} presented a unified framework for generating
+% robust cryptographic keys from facial features. The scheme incorporated local
+% binary patterns and a quantization mechanism to ensure the stability of the
+% generated keys. The keys were tested for randomness.
+
+% \par
+
+% Panchal et al. \cite{panchal2019biometric} proposed a mechanism for key generation through
+% minutiae features from a fingerprint. The key generation mechanism
+% consisted of feature extraction, convolution code
+% generation, and key generation. The feature extraction stage involves Consistent
+% region selection and formation of different minutiae sets. Trellis structure of
+% convolution code is utilized for code generation, and BioKEY is computed in the
+% final stage. In this mechanism, there is no need to store the key. However, some
+% fingerprint images might not have a core around which this scheme resolves, which
+% affects the use of this method on different images.
+
+% \par
+
+% Panchal et al.~\cite{panchal2018novel} proposed a threshold-free cryptographic key by
+% merging all bits in the three statistical feature sets of the straight line
+% information derived from the core, delta, and general minutia. They used Reed
+% Solomon coding to generate a codeword. Furthermore, binarization techniques
+% were used for key generation. User authentication was done using a Support
+% vector-based (SVM) ranking system. This scheme produces a robust and unique key, which
+% is not stored anywhere; however, if all three feature sets are the same, it will
+% disclose the
+% fingerprint feature straight-line attribute information. There is a burden of
+% keeping an S-box, two random arrays, and the parameters for encoding.
+
+% \par
+
+% Wang et al.~\cite{wang111biometric} proposed a practical method for generating
+% a cryptographic bio key from a fingerprint. This scheme obtained an interval set from minutia feature distances. A binary feature vector was
+% extracted from the interval set. A two-layer error-correcting mechanism such as Reed Solomon and
+% Hadamard coding was used for better reliability during transmission. Their
+% approach is suitable for a constrained fingerprint dataset but may not be ideal
+% for low-resolution or unconstrained datasets.
+
+% \par
+
+% Wu et al.~\cite{Wu2022} have given a deep learning-based fuzzy key generation method that proposes a
+% three-layer framework for fingerprint bio-key generation that is composed of a 
+% fingerprint bio-key preprocessor, fingerprint bio-key stabilizer, 
+% and fingerprint bio-key fuzzy extractor. 
+% However, the key produced is non-revocable and the overhead for key generation is significant, 
+% thus not suitable for a constrained environment nor in an online environment. 
+% Ahmed et al. \cite{ahmed2021biometric} have used crow search \cite{Askarzadeh2016} algorithm for 
+% key generation, but their approach has the same drawback of high overhead.
+
+
+
+% Although many key generation schemes have been proposed, each has some drawbacks. 
+% This work proposes a fingerprint-based indexing scheme that addresses the stability,
+% discriminative, uniqueness, and security parameters. The proposed scheme is discussed in detail in the subsequent section.
+
+
+
+% \end{document}
