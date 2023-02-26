@@ -1,0 +1,129 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: r.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: ref.bib
+Warning--I didn't find a database entry for "Jain2004"
+Warning--I didn't find a database entry for "Maltoni2003"
+Warning--I didn't find a database entry for "Leniski2003"
+Warning--I didn't find a database entry for "Jain2002"
+Warning--I didn't find a database entry for "Kong2006"
+Warning--I didn't find a database entry for "Phillips2011"
+Warning--I didn't find a database entry for "Sun2010"
+Warning--I didn't find a database entry for "Wildes1997"
+Warning--I didn't find a database entry for "garcia2008database"
+Warning--I didn't find a database entry for "cappelli2011index"
+Warning--I didn't find a database entry for "lumini1997continuous"
+Warning--I didn't find a database entry for "schaler2013queval"
+Warning--I didn't find a database entry for "aggarwal2014data"
+Warning--I didn't find a database entry for "gu2013improved"
+Warning--I didn't find a database entry for "Galar2015"
+Warning--I didn't find a database entry for "Germain1997"
+Warning--I didn't find a database entry for "Bhanu2003"
+Warning--I didn't find a database entry for "henry1922classification"
+Warning--I didn't find a database entry for "park2005"
+Warning--I didn't find a database entry for "bently1975"
+Warning--I didn't find a database entry for "vandana2008"
+Warning--I didn't find a database entry for "Otair2013"
+Warning--I didn't find a database entry for "Kriegel1990"
+Warning--I didn't find a database entry for "Jiang2006"
+Warning--I didn't find a database entry for "liu2012"
+Warning--I didn't find a database entry for "Li2014"
+Warning--I didn't find a database entry for "Ferreira2015"
+Warning--I didn't find a database entry for "Cappelli2011"
+Warning--I didn't find a database entry for "Cappelli2012"
+Warning--I didn't find a database entry for "Jayaraman2014"
+Warning--I didn't find a database entry for "Mukherjee2008iris"
+Warning--I didn't find a database entry for "Puhan2008iris"
+Warning--I didn't find a database entry for "Sun2014iris"
+Warning--I didn't find a database entry for "Mehrotra2010iris"
+Warning--I didn't find a database entry for "Mehrotra2013iris"
+Warning--I didn't find a database entry for "Jayaraman2012iris"
+Warning--I didn't find a database entry for "Barbu2015iris"
+Warning--I didn't find a database entry for "Rathgeb2010iris"
+Warning--I didn't find a database entry for "Dey2012gabor"
+Warning--I didn't find a database entry for "hugo2013iris"
+Warning--I didn't find a database entry for "hugo2010iris"
+Warning--I didn't find a database entry for "Gadde2010iris"
+Warning--I didn't find a database entry for "Burrows1994ablock"
+Warning--I didn't find a database entry for "Rathgeb2015iris"
+Warning--I didn't find a database entry for "Drozdowski2018iris"
+Warning--I didn't find a database entry for "Damer2017iris"
+Warning--I didn't find a database entry for "Khalaf2018iris"
+Warning--I didn't find a database entry for "khalaf2018efficient"
+Warning--I didn't find a database entry for "Sarier2018multi"
+Warning--I didn't find a database entry for "Haghighat2016multi"
+Warning--I didn't find a database entry for "Gyaourova2012multi"
+Warning--I didn't find a database entry for "Prabhu2015multi"
+Warning--I didn't find a database entry for "Bahrampour2016multi"
+Warning--I didn't find a database entry for "Goswami2016multi"
+Warning--I didn't find a database entry for "Wang2012multi"
+Warning--I didn't find a database entry for "Wang2016multi"
+Warning--I didn't find a database entry for "Kaushik2013multi"
+Warning--I didn't find a database entry for "uidai"
+Warning--I didn't find a database entry for "Kavati2017"
+Warning--I didn't find a database entry for "maio2002fvc2002"
+Warning--I didn't find a database entry for "maio2004fvc2004"
+Warning--I didn't find a database entry for "polyu2016database"
+Warning--I didn't find a database entry for "pareschi2012statistical"
+Warning--I didn't find a database entry for "marsaglia1998diehard"
+Warning--I didn't find a database entry for "thai2016filter"
+Warning--I didn't find a database entry for "Faguletal"
+Warning--I didn't find a database entry for "ding2017combining"
+Warning--I didn't find a database entry for "garg2020novel"
+Warning--I didn't find a database entry for "liu2017feature"
+Warning--I didn't find a database entry for "lee1980two"
+Warning--I didn't find a database entry for "li2019learning"
+Warning--I didn't find a database entry for "Ebrahim2009hcbd"
+Warning--I didn't find a database entry for "Zhao2008gcbd"
+Warning--I didn't find a database entry for "tan2010enhanced"
+Warning--I didn't find a database entry for "bashar2014robust"
+Warning--I didn't find a database entry for "chiesa2020gars"
+Warning--I didn't find a database entry for "alirezazadeh2015genetic"
+Warning--I didn't find a database entry for "suarez2020tutorial"
+Warning--I didn't find a database entry for "davis2007information"
+Warning--I didn't find a database entry for "shlens2014notes"
+You've used 0 entries,
+            1791 wiz_defined-function locations,
+            572 strings with 5199 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There were 80 warnings)
